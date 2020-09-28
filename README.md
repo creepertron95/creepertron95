@@ -1,5 +1,8 @@
-### Hi there 👋
+![](https://github.com/creepertron95/creepertron95/blob/master/ct95-logo.png)
 
+---
+
+Welcome to my profile
 <!--
 **creepertron95/creepertron95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
